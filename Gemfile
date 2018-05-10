@@ -6,6 +6,7 @@ gem "calabash-android"
 gem "calabash-cucumber"
 gem "pry"
 
+#xxxxx
 #teste_github
 
 #git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
